@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/mint524/images/d/d7/Sky.jpg/revision/latest?cb=20160706152654" alt="Banner photo for GitHub profile">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E1BAQFDlLZlu0eSSQ/company-background_10000/0/1603209012096?e=2159024400&v=beta&t=ycOFoc2n-_8oQYO_8shz2K4cL2qaFKH-ci_pcJ-_6gM" alt="Banner photo for GitHub profile">
 </p>
 
 # Full Stack Engineer + Strategic Finance
