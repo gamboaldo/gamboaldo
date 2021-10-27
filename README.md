@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dgamboa/dgamboa/blob/master/assets/maui_road.jpg" alt="Banner photo for GitHub profile">
+  <img src="https://robbreport.com/wp-content/uploads/2019/05/sbsailingcenter_sbinnview_photobyblakebronstad.jpg.jpg?w=1000" alt="Banner photo for GitHub profile">
 </p>
 
 # Full Stack Engineer + Strategic Finance
