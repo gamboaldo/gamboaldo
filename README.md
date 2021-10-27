@@ -4,13 +4,12 @@
 
 # Full Stack Engineer + Strategic Finance
 
-Hello, I'm Daniel :wave:. I've spent the last few years working in strategic finance and leading multi-disciplinary teams. I used to reflect longingly on my engineering days at Texas A&M and my short stint as a web developer at Dev Bootcamp, but I reframed the narrative in early 2021. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
+Hello, I'm Aldo :wave:. I've spent the last few years working in strategic finance. I now spend most of my time programming while working on strategic finance projects on the side. I think these two interests will merge at some point for compounding fun :rocket:
 
 ## Now
 
 - Building systems and resources to support the development of Web3
-- Training for and racing in long-distance triathlons (next major race: [Ironman Texas](https://www.ironman.com/im-texas))
-- 🏡 Currently living in Texas
+- 🏡 Currently living in California
 - 📖 Currently learning about blockchain technologies
 - 🏋️‍♂️ Currently optimizing software engineering reps
 
