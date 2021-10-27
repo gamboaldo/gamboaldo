@@ -16,14 +16,13 @@ Hello, I'm Daniel :wave:. I've spent the last few years working in strategic fin
 
 ## Side Projects
 
-- [x] [Rocketree](https://rocketree.com): a Wordpress site where [Matt Harris](https://www.linkedin.com/in/mgharris34/) and I write about our learnings about learning
-- [x] [Lambda Cards](http://www.lambdacards.com): a flashcards app to study for the Lambda School web core interview
-- [x] [Food Trucks API](https://github.com/dgamboa/foodtrucks-backend): a RESTful API with for users to find and explore food trucks, their menus and their ratings
+- [x] [Potluck Planner API](https://github.com/gamboaldo/backend2): a RESTful API for users to find, explore, and create potlucks.
+- [x] [Plant Watering Schedule API](https://github.com/Water-My-Plants-5-ft/backend): a RESTful API for users create schedules for watering their plants.
 - [x] [NASA Astronomy Picture of the Day](https://nasa-apod-site.netlify.app/): a simple app leveraging [NASA's API](https://api.nasa.gov/) and [React](https://reactjs.org/) to display the astronomy picture of the day
 
 ## Skills & Tools
 
-- Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, Flask, Ruby, Rails, PostgreSQL, Heroku
+- Programming: Git, HTML, CSS, JavaScript, React, Redux, Node.js, Express, Python, PostgreSQL, Heroku
 - Languages: English, Spanish (Fluent)
 
 <p align="center">
