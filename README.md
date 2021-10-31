@@ -8,7 +8,7 @@ Hello, I'm Aldo :wave:. I've spent the last few years working in strategic finan
 
 ## Now
 
-- Building systems and resources to support the development of Web3
+- Researching systems and resources to support the development of Web3
 - 🏡 Currently living in California
 - 📖 Currently learning about blockchain technologies
 - 🏋️‍♂️ Currently optimizing software engineering reps
