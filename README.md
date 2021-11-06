@@ -16,6 +16,7 @@ Hello, I'm Aldo :wave:. I've spent the last few years working in strategic finan
 ## Side Projects
 
 - [x] [Live Covid Tracker](https://covid-worldwide-tracker.web.app): a live updating coronavirus tracker based on each country
+- [x] [Underdog Devs](https://github.com/Lambda-School-Labs/underdog-devs-be-a): Nonprofit supporting the disadvantaged in their transition into the software industry.
 - [x] [Potluck Planner API](https://github.com/gamboaldo/backend2): a RESTful API for users to find, explore, and create potlucks.
 - [x] [Plant Watering Schedule API](https://github.com/Water-My-Plants-5-ft/backend): a RESTful API for users create schedules for watering their plants.
 - [x] [NASA Astronomy Picture of the Day](https://astronomy-photo-of-the-day.vercel.app/): a simple app leveraging [NASA's API](https://api.nasa.gov/) and [React](https://reactjs.org/) to display the astronomy picture of the day
